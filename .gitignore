@@ -6,3 +6,4 @@ pnpm-lock.yaml
 .vimrc
 .env.development
 .env.production
+.vercel
